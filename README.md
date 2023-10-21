@@ -25,10 +25,6 @@ To run tests, run the following command
 
 ## Screenshots
 
-![App Screenshot]
+https://drive.google.com/file/d/1R85iKs9ThAVzpv92r9_lwmyCuXqQ5akM/view?usp=share_link
 
-
-## Demo
-
-Insert gif or link to demo
 
